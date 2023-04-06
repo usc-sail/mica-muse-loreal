@@ -1,0 +1,14 @@
+country=Spain
+product type cats = ['fragrance', 'skincare', 'haircare', 'makeup']
+removed product type cats = []
+
+<15y
+haircare > makeup = skincare > fragrance
+15y-25y
+makeup > haircare = skincare > fragrance
+25y-35y
+fragrance > skincare = haircare > makeup
+35y-45y
+fragrance = skincare > haircare = makeup
+45-75y
+skincare = makeup = haircare = fragrance

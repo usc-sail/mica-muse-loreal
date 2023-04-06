@@ -1,0 +1,14 @@
+target gender=unspecified
+product type cats = ['makeup', 'haircare', 'skincare', 'fragrance']
+removed product type cats = []
+
+<15y
+makeup = haircare > fragrance > skincare
+15y-25y
+makeup = skincare > haircare > fragrance
+25y-35y
+fragrance = skincare = haircare > makeup
+35y-45y
+makeup = fragrance = haircare > skincare
+45-75y
+fragrance = makeup > haircare > skincare

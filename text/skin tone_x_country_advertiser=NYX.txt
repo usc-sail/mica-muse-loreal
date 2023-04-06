@@ -1,0 +1,10 @@
+advertiser=NYX
+country cats = ['Germany', 'UK', 'USA']
+removed country cats = ['France', 'Italy', 'Spain']
+
+light
+Germany = USA = UK
+medium
+USA = UK = Germany
+dark
+UK > USA = Germany

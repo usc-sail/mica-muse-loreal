@@ -1,0 +1,8 @@
+product type=haircare
+country cats = ['Germany', 'UK', 'Italy', 'France', 'Spain', 'USA', 'India', 'Brazil']
+removed country cats = ['Mexico', 'Indonesia']
+
+male
+India > Germany > France > Brazil = UK > USA = Italy > Spain
+female
+Spain > Italy = USA > UK = Brazil > France > Germany > India

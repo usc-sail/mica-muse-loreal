@@ -1,0 +1,8 @@
+product type=skincare
+country cats = ['Germany', 'UK', 'France', 'USA', 'Italy', 'Spain']
+removed country cats = ['Mexico', 'Brazil', 'Canada', 'India', 'Indonesia']
+
+male
+UK > France > USA > Germany > Spain = Italy
+female
+Italy = Spain > Germany > USA > France > UK

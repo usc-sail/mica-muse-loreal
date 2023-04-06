@@ -1,0 +1,8 @@
+advertiser=YSL
+target gender cats = ['unspecified', 'female']
+removed target gender cats = ['male']
+
+male
+unspecified > female
+female
+female > unspecified

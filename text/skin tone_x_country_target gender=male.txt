@@ -1,0 +1,10 @@
+target gender=male
+country cats = ['UK', 'Italy', 'Germany']
+removed country cats = ['Mexico', 'Brazil', 'USA', 'France', 'Spain', 'India', 'Indonesia']
+
+light
+Italy = UK > Germany
+medium
+UK > Germany = Italy
+dark
+Germany > Italy > UK

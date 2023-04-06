@@ -1,0 +1,10 @@
+advertiser=VICHY
+target gender cats = ['female', 'unspecified']
+removed target gender cats = ['both']
+
+light
+unspecified > female
+medium
+female > unspecified
+dark
+female > unspecified

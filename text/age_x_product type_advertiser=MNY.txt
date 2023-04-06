@@ -1,0 +1,14 @@
+advertiser=MNY
+product type cats = ['makeup', 'skincare']
+removed product type cats = []
+
+<15y
+makeup > skincare
+15y-25y
+makeup > skincare
+25y-35y
+skincare > makeup
+35y-45y
+makeup > skincare
+45-75y
+makeup > skincare

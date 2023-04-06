@@ -1,0 +1,8 @@
+country=Italy
+advertiser cats = ['OAP', 'GARNIER', 'ARMANI', 'MAYBELLINE', 'LANCOME', 'YSL', 'KIEHLS']
+removed advertiser cats = ['BIOTHERM', 'CERAVE', 'KERASTASE', 'LOP', 'LRP', 'NYX', 'PRADA', 'REDKEN']
+
+male
+ARMANI > YSL = LANCOME > KIEHLS > OAP = GARNIER > MAYBELLINE
+female
+MAYBELLINE > GARNIER = OAP > KIEHLS > LANCOME = YSL > ARMANI

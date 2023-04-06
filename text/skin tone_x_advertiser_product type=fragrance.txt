@@ -1,0 +1,10 @@
+product type=fragrance
+advertiser cats = ['ARMANI', 'LANCOME', 'YSL', 'PRADA']
+removed advertiser cats = ['GARNIER', 'OAP']
+
+light
+LANCOME > PRADA > ARMANI = YSL
+medium
+ARMANI > YSL = PRADA > LANCOME
+dark
+YSL > ARMANI > PRADA > LANCOME

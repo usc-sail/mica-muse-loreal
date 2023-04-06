@@ -1,0 +1,10 @@
+advertiser=KERASTASE
+country cats = ['Germany', 'UK']
+removed country cats = ['Brazil', 'France', 'Italy', 'Spain']
+
+light
+Germany > UK
+medium
+UK > Germany
+dark
+UK > Germany

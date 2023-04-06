@@ -1,0 +1,10 @@
+advertiser=LRP
+country cats = ['Germany', 'France', 'UK']
+removed country cats = ['Mexico', 'USA', 'Italy', 'Spain']
+
+light
+France = UK > Germany
+medium
+Germany = UK = France
+dark
+Germany > France = UK

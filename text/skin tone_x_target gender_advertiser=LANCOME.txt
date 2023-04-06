@@ -1,0 +1,10 @@
+advertiser=LANCOME
+target gender cats = ['female', 'unspecified']
+removed target gender cats = []
+
+light
+female > unspecified
+medium
+unspecified > female
+dark
+unspecified > female

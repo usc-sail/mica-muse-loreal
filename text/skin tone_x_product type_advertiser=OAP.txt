@@ -1,0 +1,10 @@
+advertiser=OAP
+product type cats = ['skincare', 'haircare', 'makeup']
+removed product type cats = ['fragrance']
+
+light
+skincare > haircare > makeup
+medium
+haircare > skincare = makeup
+dark
+makeup > skincare = haircare

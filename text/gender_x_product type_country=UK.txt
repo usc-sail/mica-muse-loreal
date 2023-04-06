@@ -1,0 +1,8 @@
+country=UK
+product type cats = ['skincare', 'makeup', 'haircare', 'fragrance']
+removed product type cats = []
+
+male
+fragrance > skincare > makeup > haircare
+female
+haircare > makeup > skincare > fragrance

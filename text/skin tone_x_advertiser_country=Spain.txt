@@ -1,0 +1,10 @@
+country=Spain
+advertiser cats = ['OAP', 'GARNIER', 'LANCOME']
+removed advertiser cats = ['ARMANI', 'BIOTHERM', 'KERASTASE', 'KIEHLS', 'LOP', 'LRP', 'MAYBELLINE', 'NYX', 'REDKEN', 'VICHY', 'YSL']
+
+light
+LANCOME = OAP = GARNIER
+medium
+GARNIER = OAP = LANCOME
+dark
+LANCOME = OAP = GARNIER

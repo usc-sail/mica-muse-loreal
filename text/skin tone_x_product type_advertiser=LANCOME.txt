@@ -1,0 +1,10 @@
+advertiser=LANCOME
+product type cats = ['makeup', 'fragrance', 'skincare']
+removed product type cats = []
+
+light
+fragrance > skincare > makeup
+medium
+makeup > skincare > fragrance
+dark
+makeup > skincare = fragrance

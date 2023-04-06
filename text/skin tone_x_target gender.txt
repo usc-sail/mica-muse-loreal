@@ -1,0 +1,10 @@
+None
+target gender cats = ['unspecified', 'female', 'male', 'both']
+removed target gender cats = []
+
+light
+both > unspecified = female = male
+medium
+male = unspecified > female > both
+dark
+female = male > unspecified > both

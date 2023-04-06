@@ -1,0 +1,8 @@
+advertiser=OAP
+country cats = ['UK', 'Italy', 'France', 'USA', 'Spain']
+removed country cats = ['Mexico', 'Brazil', 'India']
+
+male
+UK > USA > France > Spain = Italy
+female
+Italy = Spain > France > USA > UK

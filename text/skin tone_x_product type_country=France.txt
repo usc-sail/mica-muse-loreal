@@ -1,0 +1,10 @@
+country=France
+product type cats = ['makeup', 'skincare', 'fragrance', 'haircare']
+removed product type cats = []
+
+light
+fragrance > skincare = makeup = haircare
+medium
+haircare > makeup > skincare > fragrance
+dark
+skincare > makeup = fragrance > haircare

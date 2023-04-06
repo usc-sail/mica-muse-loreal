@@ -1,0 +1,14 @@
+advertiser=CERAVE
+target gender cats = ['both', 'female']
+removed target gender cats = ['unspecified']
+
+<15y
+both > female
+15y-25y
+both = female
+25y-35y
+female > both
+35y-45y
+female = both
+45-75y
+both = female

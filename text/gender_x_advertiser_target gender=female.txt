@@ -1,0 +1,8 @@
+target gender=female
+advertiser cats = ['GARNIER', 'VICHY', 'LRP', 'LANCOME', 'KIEHLS', 'OAP', 'YSL', 'ARMANI', 'CERAVE']
+removed advertiser cats = ['PRADA', 'BIOTHERM']
+
+male
+LRP > KIEHLS > VICHY > GARNIER > YSL = LANCOME > CERAVE > ARMANI > OAP
+female
+OAP > ARMANI > CERAVE > LANCOME = YSL > GARNIER > VICHY > KIEHLS > LRP

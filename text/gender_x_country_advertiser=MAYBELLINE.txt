@@ -1,0 +1,8 @@
+advertiser=MAYBELLINE
+country cats = ['UK', 'Italy', 'France', 'USA']
+removed country cats = ['Spain', 'Indonesia']
+
+male
+UK = USA > France = Italy
+female
+Italy = France > USA = UK

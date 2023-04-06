@@ -1,0 +1,8 @@
+advertiser=KIEHLS
+country cats = ['Germany', 'UK', 'Italy', 'France']
+removed country cats = ['USA', 'Spain']
+
+male
+France > Germany > UK = Italy
+female
+Italy = UK > Germany > France

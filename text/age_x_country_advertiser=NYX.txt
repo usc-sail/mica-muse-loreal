@@ -1,0 +1,14 @@
+advertiser=NYX
+country cats = ['Germany', 'UK', 'USA']
+removed country cats = ['France', 'Italy', 'Spain']
+
+<15y
+UK > Germany > USA
+15y-25y
+USA > Germany = UK
+25y-35y
+Germany > UK = USA
+35y-45y
+UK > Germany > USA
+45-75y
+UK > Germany = USA

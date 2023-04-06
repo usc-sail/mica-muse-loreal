@@ -1,0 +1,14 @@
+advertiser=KIEHLS
+target gender cats = ['unspecified', 'female', 'both']
+removed target gender cats = []
+
+<15y
+female = unspecified = both
+15y-25y
+both > female > unspecified
+25y-35y
+female > both = unspecified
+35y-45y
+unspecified > both > female
+45-75y
+unspecified > female > both

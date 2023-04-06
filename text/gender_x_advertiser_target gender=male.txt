@@ -1,0 +1,8 @@
+target gender=male
+advertiser cats = ['OAP', 'ARMANI', 'PRADA']
+removed advertiser cats = ['GARNIER', 'YSL', 'BIOTHERM']
+
+male
+PRADA = OAP > ARMANI
+female
+ARMANI > OAP = PRADA

@@ -1,0 +1,10 @@
+country=France
+target gender cats = ['unspecified', 'female']
+removed target gender cats = ['male', 'both']
+
+light
+female > unspecified
+medium
+unspecified > female
+dark
+female > unspecified

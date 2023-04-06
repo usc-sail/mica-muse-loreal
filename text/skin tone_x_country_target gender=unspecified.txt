@@ -1,0 +1,10 @@
+target gender=unspecified
+country cats = ['Germany', 'UK', 'Italy', 'USA', 'France', 'Spain', 'Brazil', 'India', 'Mexico']
+removed country cats = ['Indonesia']
+
+light
+India > Mexico > Spain > Germany > Italy > France > Brazil > UK > USA
+medium
+UK > Brazil = USA > France > Germany > Italy > Spain > Mexico > India
+dark
+USA > UK > Brazil > France = Italy > Germany > Spain > Mexico > India

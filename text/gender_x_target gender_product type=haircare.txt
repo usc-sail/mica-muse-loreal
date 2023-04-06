@@ -1,0 +1,8 @@
+product type=haircare
+target gender cats = ['unspecified', 'male']
+removed target gender cats = []
+
+male
+male > unspecified
+female
+unspecified > male

@@ -1,0 +1,10 @@
+advertiser=VICHY
+product type cats = ['skincare', 'makeup', 'haircare']
+removed product type cats = []
+
+light
+makeup = haircare > skincare
+medium
+skincare > haircare = makeup
+dark
+skincare > makeup = haircare

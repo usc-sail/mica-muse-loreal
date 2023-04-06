@@ -1,0 +1,8 @@
+advertiser=YSL
+country cats = ['USA', 'UK', 'Germany', 'Italy']
+removed country cats = ['Mexico', 'France', 'Spain']
+
+male
+UK = Germany = USA = Italy
+female
+Italy = USA = Germany = UK

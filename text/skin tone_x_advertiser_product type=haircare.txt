@@ -1,0 +1,10 @@
+product type=haircare
+advertiser cats = ['GARNIER', 'KERASTASE', 'OAP', 'LOP', 'VICHY', 'REDKEN']
+removed advertiser cats = []
+
+light
+VICHY > LOP > KERASTASE > REDKEN = GARNIER > OAP
+medium
+OAP = REDKEN = GARNIER > LOP > KERASTASE > VICHY
+dark
+KERASTASE > OAP > GARNIER > LOP > REDKEN > VICHY

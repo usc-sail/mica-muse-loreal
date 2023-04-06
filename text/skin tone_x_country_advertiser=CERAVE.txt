@@ -1,0 +1,10 @@
+advertiser=CERAVE
+country cats = ['Germany', 'USA', 'UK']
+removed country cats = ['Brazil', 'France', 'Italy']
+
+light
+Germany > UK = USA
+medium
+USA = UK = Germany
+dark
+USA = UK > Germany

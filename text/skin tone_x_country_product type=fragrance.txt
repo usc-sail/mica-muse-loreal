@@ -1,0 +1,10 @@
+product type=fragrance
+country cats = ['UK', 'Italy', 'France', 'Germany', 'USA', 'Spain']
+removed country cats = ['Mexico', 'Brazil']
+
+light
+France > Spain > Italy = UK > Germany > USA
+medium
+USA > Germany = UK = Italy > Spain = France
+dark
+USA = Germany > UK = Italy > Spain = France

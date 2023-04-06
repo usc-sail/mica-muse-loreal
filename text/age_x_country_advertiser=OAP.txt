@@ -1,0 +1,14 @@
+advertiser=OAP
+country cats = ['UK', 'Italy', 'France', 'USA', 'Spain']
+removed country cats = ['Mexico', 'Brazil', 'India']
+
+<15y
+USA = Spain = UK = France = Italy
+15y-25y
+France > Italy = USA > Spain > UK
+25y-35y
+Spain = UK > Italy > USA > France
+35y-45y
+UK = USA > France > Spain > Italy
+45-75y
+France = Spain > UK = USA = Italy

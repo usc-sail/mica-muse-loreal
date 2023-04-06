@@ -1,0 +1,10 @@
+advertiser=OAP
+target gender cats = ['unspecified', 'male', 'female']
+removed target gender cats = []
+
+light
+female > male = unspecified
+medium
+male > unspecified > female
+dark
+unspecified > female = male

@@ -1,0 +1,14 @@
+country=Germany
+target gender cats = ['unspecified', 'female', 'both', 'male']
+removed target gender cats = []
+
+<15y
+unspecified > female > both > male
+15y-25y
+unspecified > both > female > male
+25y-35y
+male > both = female > unspecified
+35y-45y
+female = both > unspecified = male
+45-75y
+female > unspecified > both = male

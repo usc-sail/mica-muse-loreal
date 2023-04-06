@@ -1,0 +1,10 @@
+advertiser=ARMANI
+country cats = ['Italy', 'Germany', 'UK', 'USA']
+removed country cats = ['Mexico', 'Brazil', 'France', 'Spain']
+
+light
+Italy > Germany > UK > USA
+medium
+USA > UK > Italy = Germany
+dark
+UK = USA = Germany > Italy

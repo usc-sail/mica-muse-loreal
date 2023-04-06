@@ -1,0 +1,14 @@
+advertiser=MAYBELLINE
+country cats = ['UK', 'Italy', 'France', 'USA']
+removed country cats = ['Spain', 'Indonesia']
+
+<15y
+USA > Italy = UK > France
+15y-25y
+USA = Italy > UK = France
+25y-35y
+France > UK > Italy > USA
+35y-45y
+USA = France = UK > Italy
+45-75y
+UK > France > USA = Italy

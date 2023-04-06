@@ -1,0 +1,10 @@
+advertiser=ARMANI
+product type cats = ['fragrance', 'makeup']
+removed product type cats = ['skincare']
+
+light
+fragrance > makeup
+medium
+makeup > fragrance
+dark
+makeup > fragrance

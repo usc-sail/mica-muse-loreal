@@ -1,0 +1,14 @@
+None
+product type cats = ['makeup', 'skincare', 'haircare', 'fragrance']
+removed product type cats = []
+
+<15y
+makeup = haircare > skincare > fragrance
+15y-25y
+makeup > haircare > skincare > fragrance
+25y-35y
+fragrance > skincare > haircare > makeup
+35y-45y
+skincare > fragrance > makeup > haircare
+45-75y
+skincare > makeup > fragrance > haircare
