@@ -11,4 +11,4 @@ Germany > UK = USA
 35y-45y
 UK > Germany > USA
 45-75y
-UK > Germany = USA
+UK > USA = Germany
