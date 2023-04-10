@@ -1,0 +1,10 @@
+skin tone vs product type product brand=YSL
+product type cats = ['makeup', 'fragrance']
+removed product type cats = ['skincare']
+light
+fragrance > makeup
+medium
+makeup > fragrance
+dark
+makeup = fragrance
+

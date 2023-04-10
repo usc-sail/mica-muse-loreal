@@ -1,0 +1,8 @@
+gender vs advertiser country=Spain
+advertiser cats = ['OAP', 'GARNIER', 'LANCOME']
+removed advertiser cats = ['ARMANI', 'BIOTHERM', 'KERASTASE', 'KIEHLS', 'LOP', 'LRP', 'MAYBELLINE', 'NYX', 'REDKEN', 'VICHY', 'YSL']
+male
+GARNIER = OAP = LANCOME
+female
+LANCOME = OAP = GARNIER
+

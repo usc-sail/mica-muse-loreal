@@ -1,0 +1,8 @@
+gender vs target gender product brand=KIEHLS
+target gender cats = ['unspecified', 'female', 'both']
+removed target gender cats = []
+male
+female = both = unspecified
+female
+unspecified = both = female
+

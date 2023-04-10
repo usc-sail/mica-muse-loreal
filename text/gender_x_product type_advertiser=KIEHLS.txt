@@ -1,8 +1,0 @@
-advertiser=KIEHLS
-product type cats = ['skincare', 'makeup']
-removed product type cats = []
-
-male
-skincare > makeup
-female
-makeup > skincare

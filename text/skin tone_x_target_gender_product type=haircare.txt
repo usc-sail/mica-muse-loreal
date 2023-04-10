@@ -1,0 +1,10 @@
+skin tone vs target gender product type=haircare
+target gender cats = ['unspecified', 'male']
+removed target gender cats = []
+light
+unspecified > male
+medium
+male > unspecified
+dark
+unspecified = male
+

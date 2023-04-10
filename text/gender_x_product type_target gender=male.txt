@@ -1,8 +1,0 @@
-target gender=male
-product type cats = ['skincare', 'fragrance', 'haircare']
-removed product type cats = ['makeup']
-
-male
-haircare = skincare > fragrance
-female
-fragrance > skincare = haircare

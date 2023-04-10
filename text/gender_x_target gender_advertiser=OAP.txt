@@ -1,8 +1,0 @@
-advertiser=OAP
-target gender cats = ['unspecified', 'male', 'female']
-removed target gender cats = []
-
-male
-male > unspecified = female
-female
-female = unspecified > male

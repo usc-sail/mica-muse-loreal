@@ -1,0 +1,14 @@
+age vs country product brand=VICHY
+country cats = ['Germany', 'France', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'USA', 'Spain']
+<15y
+France > Germany > UK
+15y-25y
+France > Germany = UK
+25y-35y
+Germany > UK = France
+35y-45y
+UK > Germany > France
+45-75y
+UK > Germany > France
+

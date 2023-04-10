@@ -1,8 +1,0 @@
-None
-product type cats = ['makeup', 'skincare', 'haircare', 'fragrance']
-removed product type cats = []
-
-male
-fragrance > skincare > makeup > haircare
-female
-haircare > makeup > skincare > fragrance

@@ -1,8 +1,0 @@
-country=Italy
-product type cats = ['makeup', 'haircare', 'fragrance', 'skincare']
-removed product type cats = []
-
-male
-fragrance > makeup > haircare = skincare
-female
-skincare = haircare > makeup > fragrance

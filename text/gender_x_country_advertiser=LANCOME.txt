@@ -1,8 +1,0 @@
-advertiser=LANCOME
-country cats = ['France', 'Germany', 'UK', 'Italy', 'Spain']
-removed country cats = ['Mexico', 'USA', 'Canada']
-
-male
-Italy = Germany = France > Spain = UK
-female
-UK = Spain > France = Germany = Italy

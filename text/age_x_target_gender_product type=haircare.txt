@@ -1,0 +1,14 @@
+age vs target gender product type=haircare
+target gender cats = ['unspecified', 'male']
+removed target gender cats = []
+<15y
+unspecified > male
+15y-25y
+unspecified > male
+25y-35y
+male > unspecified
+35y-45y
+male > unspecified
+45-75y
+male > unspecified
+

@@ -1,10 +1,10 @@
-None
+skin tone vs country
 country cats = ['Germany', 'UK', 'France', 'Italy', 'USA', 'Spain', 'Brazil', 'India', 'Mexico', 'Indonesia']
 removed country cats = ['Canada']
-
 light
 Mexico = India > Indonesia > Spain > Italy > Germany > France > Brazil > UK > USA
 medium
 USA > UK > Brazil > Germany > France > Italy > Spain > Indonesia > India > Mexico
 dark
 USA > UK > France > Brazil > Italy > Germany > Spain > Indonesia > Mexico > India
+

@@ -1,0 +1,8 @@
+gender vs target gender country=Italy
+target gender cats = ['unspecified', 'female', 'male']
+removed target gender cats = ['both']
+male
+male > female = unspecified
+female
+unspecified = female > male
+

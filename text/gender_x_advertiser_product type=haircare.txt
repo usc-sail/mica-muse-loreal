@@ -1,8 +1,0 @@
-product type=haircare
-advertiser cats = ['GARNIER', 'KERASTASE', 'OAP', 'LOP', 'VICHY', 'REDKEN']
-removed advertiser cats = []
-
-male
-VICHY > KERASTASE > GARNIER > LOP > OAP = REDKEN
-female
-REDKEN = OAP > LOP > GARNIER > KERASTASE > VICHY

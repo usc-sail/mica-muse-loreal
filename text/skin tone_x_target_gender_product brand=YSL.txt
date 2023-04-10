@@ -1,0 +1,10 @@
+skin tone vs target gender product brand=YSL
+target gender cats = ['unspecified', 'female']
+removed target gender cats = ['male']
+light
+female > unspecified
+medium
+unspecified > female
+dark
+unspecified > female
+

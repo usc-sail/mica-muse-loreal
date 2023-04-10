@@ -1,0 +1,10 @@
+skin tone vs advertiser target gender=male
+advertiser cats = ['OAP', 'ARMANI', 'PRADA']
+removed advertiser cats = ['GARNIER', 'YSL', 'BIOTHERM']
+light
+PRADA > OAP = ARMANI
+medium
+OAP > ARMANI > PRADA
+dark
+ARMANI > PRADA > OAP
+

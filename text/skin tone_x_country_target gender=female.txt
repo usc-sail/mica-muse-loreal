@@ -1,10 +1,10 @@
-target gender=female
+skin tone vs country target gender=female
 country cats = ['Germany', 'UK', 'France', 'USA', 'Italy', 'Spain']
 removed country cats = ['Mexico', 'Brazil', 'Canada', 'Indonesia', 'India']
-
 light
 Spain = Italy > France > Germany > USA > UK
 medium
 USA > UK = Germany > Spain = France > Italy
 dark
 UK > France = USA = Germany = Italy > Spain
+

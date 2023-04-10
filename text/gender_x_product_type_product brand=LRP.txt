@@ -1,0 +1,8 @@
+gender vs product type product brand=LRP
+product type cats = ['skincare', 'makeup']
+removed product type cats = []
+male
+makeup = skincare
+female
+skincare = makeup
+

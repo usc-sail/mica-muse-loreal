@@ -1,0 +1,14 @@
+age vs product type country=Germany
+product type cats = ['makeup', 'skincare', 'haircare', 'fragrance']
+removed product type cats = []
+<15y
+haircare = makeup > skincare > fragrance
+15y-25y
+makeup = haircare > skincare > fragrance
+25y-35y
+fragrance > skincare > haircare > makeup
+35y-45y
+fragrance = makeup = skincare > haircare
+45-75y
+makeup = skincare = fragrance > haircare
+

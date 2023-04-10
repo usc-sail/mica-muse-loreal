@@ -1,0 +1,14 @@
+age vs advertiser product type=fragrance
+advertiser cats = ['ARMANI', 'LANCOME', 'YSL', 'PRADA']
+removed advertiser cats = ['GARNIER', 'OAP']
+<15y
+PRADA > ARMANI > YSL > LANCOME
+15y-25y
+YSL > ARMANI > PRADA = LANCOME
+25y-35y
+PRADA = LANCOME > ARMANI > YSL
+35y-45y
+LANCOME > ARMANI > PRADA = YSL
+45-75y
+ARMANI = LANCOME > YSL > PRADA
+

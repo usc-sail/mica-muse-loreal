@@ -1,8 +1,0 @@
-advertiser=YSL
-product type cats = ['makeup', 'fragrance']
-removed product type cats = ['skincare']
-
-male
-fragrance = makeup
-female
-makeup = fragrance

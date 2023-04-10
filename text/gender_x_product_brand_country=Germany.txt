@@ -1,0 +1,8 @@
+gender vs advertiser country=Germany
+advertiser cats = ['GARNIER', 'MNY', 'LRP', 'VICHY', 'KERASTASE', 'KIEHLS', 'NYX', 'CERAVE', 'LANCOME', 'YSL', 'ARMANI', 'BIOTHERM', 'LOP']
+removed advertiser cats = ['PRADA', 'REDKEN']
+male
+VICHY > LRP > ARMANI > NYX > YSL > CERAVE > KERASTASE > GARNIER > KIEHLS > BIOTHERM > LANCOME > MNY > LOP
+female
+LOP > MNY > LANCOME > BIOTHERM > KIEHLS > GARNIER > KERASTASE > CERAVE > YSL > NYX > ARMANI > LRP > VICHY
+

@@ -1,8 +1,0 @@
-advertiser=KERASTASE
-country cats = ['Germany', 'UK']
-removed country cats = ['Brazil', 'France', 'Italy', 'Spain']
-
-male
-Germany > UK
-female
-UK > Germany

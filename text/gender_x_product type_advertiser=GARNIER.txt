@@ -1,8 +1,0 @@
-advertiser=GARNIER
-product type cats = ['haircare', 'makeup', 'skincare']
-removed product type cats = ['fragrance']
-
-male
-skincare > makeup = haircare
-female
-haircare = makeup > skincare

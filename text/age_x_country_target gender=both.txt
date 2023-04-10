@@ -1,7 +1,6 @@
-target gender=both
+age vs country target gender=both
 country cats = ['Germany', 'UK']
 removed country cats = ['Brazil', 'USA', 'France', 'Italy']
-
 <15y
 UK > Germany
 15y-25y
@@ -12,3 +11,4 @@ Germany > UK
 Germany > UK
 45-75y
 Germany > UK
+

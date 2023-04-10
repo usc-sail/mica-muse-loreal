@@ -1,0 +1,14 @@
+age vs target gender product type=fragrance
+target gender cats = ['female', 'male', 'unspecified']
+removed target gender cats = []
+<15y
+unspecified > female > male
+15y-25y
+unspecified = female > male
+25y-35y
+male > female > unspecified
+35y-45y
+female = male = unspecified
+45-75y
+unspecified = female > male
+

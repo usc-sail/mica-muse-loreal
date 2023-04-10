@@ -1,0 +1,10 @@
+skin tone vs target gender product brand=KIEHLS
+target gender cats = ['unspecified', 'female', 'both']
+removed target gender cats = []
+light
+unspecified > both = female
+medium
+female = both > unspecified
+dark
+female > both > unspecified
+

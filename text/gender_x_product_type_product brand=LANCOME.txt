@@ -1,0 +1,8 @@
+gender vs product type product brand=LANCOME
+product type cats = ['makeup', 'fragrance', 'skincare']
+removed product type cats = []
+male
+fragrance > skincare > makeup
+female
+makeup > skincare > fragrance
+

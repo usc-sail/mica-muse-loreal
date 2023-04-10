@@ -1,0 +1,14 @@
+age vs advertiser target gender=male
+advertiser cats = ['OAP', 'ARMANI', 'PRADA']
+removed advertiser cats = ['GARNIER', 'YSL', 'BIOTHERM']
+<15y
+OAP = PRADA = ARMANI
+15y-25y
+OAP > ARMANI > PRADA
+25y-35y
+PRADA > ARMANI > OAP
+35y-45y
+OAP > ARMANI = PRADA
+45-75y
+ARMANI = OAP > PRADA
+

@@ -1,7 +1,6 @@
-target gender=unspecified
+age vs country target gender=unspecified
 country cats = ['Germany', 'UK', 'Italy', 'USA', 'France', 'Spain', 'Brazil', 'India', 'Mexico']
 removed country cats = ['Indonesia']
-
 <15y
 Germany > Italy > Spain > USA > France > UK > Brazil > Mexico > India
 15y-25y
@@ -12,3 +11,4 @@ India > Mexico > Spain > France > Italy > UK > Germany > Brazil > USA
 Mexico > India > France > Germany > Spain > Italy = UK = USA > Brazil
 45-75y
 Germany > France = Spain = UK > Mexico = Italy > USA > India > Brazil
+

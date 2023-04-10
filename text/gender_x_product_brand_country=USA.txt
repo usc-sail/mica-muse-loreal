@@ -1,0 +1,8 @@
+gender vs advertiser country=USA
+advertiser cats = ['YSL', 'OAP', 'GARNIER', 'MAYBELLINE', 'CERAVE', 'ARMANI', 'NYX']
+removed advertiser cats = ['KIEHLS', 'LANCOME', 'LRP', 'PRADA', 'REDKEN', 'VICHY']
+male
+CERAVE = YSL > OAP > ARMANI = MAYBELLINE > GARNIER > NYX
+female
+NYX > GARNIER > MAYBELLINE = ARMANI > OAP > YSL = CERAVE
+

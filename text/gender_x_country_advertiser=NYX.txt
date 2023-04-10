@@ -1,8 +1,0 @@
-advertiser=NYX
-country cats = ['Germany', 'UK', 'USA']
-removed country cats = ['France', 'Italy', 'Spain']
-
-male
-Germany > UK > USA
-female
-USA > UK > Germany

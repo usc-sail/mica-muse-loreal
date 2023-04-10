@@ -1,8 +1,0 @@
-advertiser=CERAVE
-target gender cats = ['both', 'female']
-removed target gender cats = ['unspecified']
-
-male
-both > female
-female
-female > both

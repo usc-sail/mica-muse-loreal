@@ -1,0 +1,8 @@
+gender vs country product brand=VICHY
+country cats = ['Germany', 'France', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'USA', 'Spain']
+male
+Germany = France > UK
+female
+UK > France = Germany
+

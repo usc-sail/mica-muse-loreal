@@ -1,8 +1,8 @@
-target gender=female
+gender vs country target gender=female
 country cats = ['Germany', 'UK', 'France', 'USA', 'Italy', 'Spain']
 removed country cats = ['Mexico', 'Brazil', 'Canada', 'Indonesia', 'India']
-
 male
 France > USA = UK > Germany > Italy > Spain
 female
 Spain > Italy > Germany > UK = USA > France
+

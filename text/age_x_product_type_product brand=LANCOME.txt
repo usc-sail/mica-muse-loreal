@@ -1,0 +1,14 @@
+age vs product type product brand=LANCOME
+product type cats = ['makeup', 'fragrance', 'skincare']
+removed product type cats = []
+<15y
+makeup > skincare = fragrance
+15y-25y
+makeup > skincare = fragrance
+25y-35y
+fragrance = skincare > makeup
+35y-45y
+fragrance > skincare > makeup
+45-75y
+fragrance > skincare = makeup
+

@@ -1,8 +1,8 @@
-product type=makeup
+gender vs country product type=makeup
 country cats = ['Germany', 'UK', 'USA', 'Italy', 'France', 'Spain']
 removed country cats = ['Mexico', 'Brazil', 'Indonesia']
-
 male
 Germany > USA > UK > France > Italy > Spain
 female
 Spain > Italy > France > UK > USA > Germany
+

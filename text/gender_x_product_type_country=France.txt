@@ -1,0 +1,8 @@
+gender vs product type country=France
+product type cats = ['makeup', 'skincare', 'fragrance', 'haircare']
+removed product type cats = []
+male
+skincare > fragrance > haircare = makeup
+female
+makeup = haircare > fragrance > skincare
+

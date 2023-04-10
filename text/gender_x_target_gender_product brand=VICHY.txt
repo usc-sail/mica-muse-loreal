@@ -1,0 +1,8 @@
+gender vs target gender product brand=VICHY
+target gender cats = ['female', 'unspecified']
+removed target gender cats = ['both']
+male
+unspecified > female
+female
+female > unspecified
+

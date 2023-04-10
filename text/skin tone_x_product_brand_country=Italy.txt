@@ -1,0 +1,10 @@
+skin tone vs advertiser country=Italy
+advertiser cats = ['OAP', 'GARNIER', 'ARMANI', 'MAYBELLINE', 'LANCOME', 'YSL', 'KIEHLS']
+removed advertiser cats = ['BIOTHERM', 'CERAVE', 'KERASTASE', 'LOP', 'LRP', 'NYX', 'PRADA', 'REDKEN']
+light
+GARNIER > OAP = KIEHLS > MAYBELLINE = ARMANI = LANCOME > YSL
+medium
+KIEHLS = YSL > ARMANI = MAYBELLINE = LANCOME > OAP > GARNIER
+dark
+YSL > LANCOME > ARMANI = MAYBELLINE > OAP > GARNIER > KIEHLS
+

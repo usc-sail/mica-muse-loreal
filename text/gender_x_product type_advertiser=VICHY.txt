@@ -1,8 +1,0 @@
-advertiser=VICHY
-product type cats = ['skincare', 'makeup', 'haircare']
-removed product type cats = []
-
-male
-makeup = haircare > skincare
-female
-skincare > haircare = makeup

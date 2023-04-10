@@ -1,0 +1,8 @@
+gender vs advertiser product type=skincare
+advertiser cats = ['LRP', 'GARNIER', 'VICHY', 'OAP', 'KIEHLS', 'CERAVE', 'LANCOME', 'MNY']
+removed advertiser cats = ['YSL', 'BIOTHERM', 'MAYBELLINE', 'ARMANI']
+male
+OAP > LRP > KIEHLS > CERAVE = VICHY > GARNIER > LANCOME > MNY
+female
+MNY > LANCOME > GARNIER > VICHY = CERAVE > KIEHLS > LRP > OAP
+
