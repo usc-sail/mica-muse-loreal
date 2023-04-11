@@ -1,0 +1,14 @@
+age vs country
+country cats = ['Mexico', 'Brazil', 'USA', 'France', 'Germany', 'Italy', 'Spain', 'UK', 'India', 'Indonesia']
+removed country cats = ['Canada']
+<15y
+Germany > USA > UK = Italy > Spain > France > Indonesia > Brazil > Mexico > India
+15y-25y
+Brazil > USA > Germany > France > UK > Italy > Indonesia = Spain > Mexico > India
+25y-35y
+India > Indonesia > Mexico > Spain > Italy > France > UK > Germany = Brazil > USA
+35y-45y
+Mexico > India > UK > Spain > France > Germany > Italy = USA > Brazil > Indonesia
+45-75y
+Germany > UK = France > Spain = Italy > Mexico > USA > India > Brazil > Indonesia
+

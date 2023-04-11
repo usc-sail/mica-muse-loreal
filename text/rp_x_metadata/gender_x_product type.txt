@@ -1,0 +1,8 @@
+gender vs product type
+product type cats = ['fragrance', 'haircare', 'makeup', 'skincare', 'toiletries']
+removed product type cats = []
+male
+fragrance > skincare > toiletries > haircare = makeup
+female
+makeup = haircare > toiletries > skincare > fragrance
+

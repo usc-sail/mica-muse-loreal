@@ -1,0 +1,10 @@
+skin tone vs product type
+product type cats = ['fragrance', 'haircare', 'makeup', 'skincare', 'toiletries']
+removed product type cats = []
+light
+haircare = toiletries > fragrance > skincare > makeup
+medium
+makeup > skincare > haircare > toiletries > fragrance
+dark
+makeup = fragrance > skincare > toiletries > haircare
+
