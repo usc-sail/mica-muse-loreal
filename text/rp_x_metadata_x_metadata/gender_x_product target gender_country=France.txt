@@ -1,0 +1,8 @@
+gender vs product target gender country=France
+product target gender cats = ['female', 'unspecified']
+removed product target gender cats = ['male', 'unisex']
+male
+female > unspecified
+female
+unspecified > female
+

@@ -1,0 +1,8 @@
+gender vs brand country=Spain
+brand cats = ['GARNIER', 'LANCOME', 'OAP']
+removed brand cats = ['ARMANI', 'BIOTHERM', 'KERASTASE', 'KIEHLS', 'LOP', 'LRP', 'MAYBELLINE', 'NYX', 'REDKEN', 'VICHY', 'YSL']
+male
+GARNIER = OAP = LANCOME
+female
+LANCOME = OAP = GARNIER
+

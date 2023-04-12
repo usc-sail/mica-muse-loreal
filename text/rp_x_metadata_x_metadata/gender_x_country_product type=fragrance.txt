@@ -1,0 +1,8 @@
+gender vs country product type=fragrance
+country cats = ['USA', 'France', 'Germany', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'Brazil']
+male
+Italy > UK > Spain > Germany > France = USA
+female
+USA = France > Germany > Spain > UK > Italy
+

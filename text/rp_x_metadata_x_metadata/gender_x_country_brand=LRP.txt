@@ -1,0 +1,8 @@
+gender vs country brand=LRP
+country cats = ['France', 'Germany', 'UK']
+removed country cats = ['Mexico', 'USA', 'Italy', 'Spain']
+male
+UK = France = Germany
+female
+Germany = France = UK
+

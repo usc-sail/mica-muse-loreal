@@ -1,0 +1,8 @@
+gender vs country brand=LOP
+country cats = ['Germany', 'UK']
+removed country cats = ['Brazil', 'France', 'Italy', 'Spain']
+male
+UK > Germany
+female
+Germany > UK
+

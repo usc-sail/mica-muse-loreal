@@ -1,8 +1,0 @@
-gender vs country product brand=LOP
-country cats = ['UK', 'Germany']
-removed country cats = ['Brazil', 'France', 'Italy', 'Spain']
-male
-UK > Germany
-female
-Germany > UK
-

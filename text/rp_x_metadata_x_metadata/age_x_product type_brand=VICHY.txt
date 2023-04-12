@@ -1,0 +1,14 @@
+age vs product type brand=VICHY
+product type cats = ['skincare', 'haircare', 'makeup']
+removed product type cats = []
+<15y
+skincare > makeup > haircare
+15y-25y
+skincare > makeup > haircare
+25y-35y
+haircare > makeup > skincare
+35y-45y
+skincare > haircare = makeup
+45-75y
+skincare > makeup = haircare
+

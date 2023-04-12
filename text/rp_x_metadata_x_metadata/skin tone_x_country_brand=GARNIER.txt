@@ -1,0 +1,10 @@
+skin tone vs country brand=GARNIER
+country cats = ['USA', 'France', 'Germany', 'Italy', 'Spain', 'UK', 'India']
+removed country cats = ['Mexico', 'Indonesia']
+light
+India > Italy > Spain = France > Germany > UK = USA
+medium
+USA > UK > Germany = Spain > France = Italy > India
+dark
+UK > USA > France > Germany = Italy > Spain > India
+

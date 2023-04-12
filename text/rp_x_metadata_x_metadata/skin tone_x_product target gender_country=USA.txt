@@ -1,0 +1,10 @@
+skin tone vs product target gender country=USA
+product target gender cats = ['unspecified', 'female']
+removed product target gender cats = ['unisex', 'male']
+light
+female > unspecified
+medium
+female = unspecified
+dark
+unspecified > female
+

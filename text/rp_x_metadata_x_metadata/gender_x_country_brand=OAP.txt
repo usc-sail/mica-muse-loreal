@@ -1,0 +1,8 @@
+gender vs country brand=OAP
+country cats = ['USA', 'France', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'India']
+male
+UK > USA > France > Spain = Italy
+female
+Italy = Spain > France > USA > UK
+

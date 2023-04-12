@@ -1,8 +1,0 @@
-gender vs target gender product brand=LANCOME
-target gender cats = ['female', 'unspecified']
-removed target gender cats = []
-male
-female > unspecified
-female
-unspecified > female
-

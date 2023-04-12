@@ -1,0 +1,10 @@
+skin tone vs product type brand=VICHY
+product type cats = ['skincare', 'haircare', 'makeup']
+removed product type cats = []
+light
+makeup = haircare > skincare
+medium
+skincare > haircare = makeup
+dark
+skincare > makeup = haircare
+

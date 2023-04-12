@@ -1,8 +1,0 @@
-gender vs advertiser country=France
-advertiser cats = ['LANCOME', 'OAP', 'LRP', 'GARNIER', 'VICHY', 'MAYBELLINE', 'KIEHLS']
-removed advertiser cats = ['ARMANI', 'BIOTHERM', 'CERAVE', 'KERASTASE', 'LOP', 'NYX', 'PRADA', 'YSL']
-male
-KIEHLS > LRP = VICHY > GARNIER > LANCOME > OAP > MAYBELLINE
-female
-MAYBELLINE > OAP > LANCOME > GARNIER > VICHY = LRP > KIEHLS
-

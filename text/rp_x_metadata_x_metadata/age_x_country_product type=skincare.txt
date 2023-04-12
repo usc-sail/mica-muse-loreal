@@ -1,0 +1,14 @@
+age vs country product type=skincare
+country cats = ['USA', 'France', 'Germany', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'Canada', 'India', 'Indonesia']
+<15y
+UK > USA = Germany > Spain = France > Italy
+15y-25y
+France > Germany > USA = Spain = UK > Italy
+25y-35y
+Italy = Spain = USA > UK > Germany > France
+35y-45y
+UK > Italy = USA = Spain > Germany > France
+45-75y
+Italy > UK = Germany = France = Spain > USA
+

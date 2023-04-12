@@ -1,8 +1,0 @@
-gender vs country product brand=GARNIER
-country cats = ['Germany', 'UK', 'Italy', 'France', 'USA', 'Spain', 'India']
-removed country cats = ['Mexico', 'Indonesia']
-male
-India > Germany = France > UK > USA > Spain = Italy
-female
-Italy = Spain > USA > UK > France = Germany > India
-

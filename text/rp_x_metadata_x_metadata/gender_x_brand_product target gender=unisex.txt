@@ -1,0 +1,8 @@
+gender vs brand product target gender=unisex
+brand cats = ['CERAVE', 'KIEHLS']
+removed brand cats = ['GARNIER', 'LRP', 'VICHY']
+male
+CERAVE = KIEHLS
+female
+KIEHLS = CERAVE
+

@@ -1,8 +1,0 @@
-gender vs product type country=Germany
-product type cats = ['makeup', 'skincare', 'haircare', 'fragrance']
-removed product type cats = []
-male
-fragrance > makeup = skincare > haircare
-female
-haircare > skincare = makeup > fragrance
-

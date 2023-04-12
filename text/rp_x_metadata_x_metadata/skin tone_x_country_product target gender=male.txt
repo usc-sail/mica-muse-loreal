@@ -1,0 +1,10 @@
+skin tone vs country product target gender=male
+country cats = ['Germany', 'Italy', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'USA', 'France', 'Spain', 'India', 'Indonesia']
+light
+Italy = UK > Germany
+medium
+UK > Germany = Italy
+dark
+Germany > Italy > UK
+

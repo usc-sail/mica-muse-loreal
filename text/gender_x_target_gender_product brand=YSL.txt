@@ -1,8 +1,0 @@
-gender vs target gender product brand=YSL
-target gender cats = ['unspecified', 'female']
-removed target gender cats = ['male']
-male
-unspecified > female
-female
-female > unspecified
-

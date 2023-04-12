@@ -1,8 +1,0 @@
-gender vs target gender product type=fragrance
-target gender cats = ['female', 'male', 'unspecified']
-removed target gender cats = []
-male
-male > unspecified > female
-female
-female > unspecified > male
-

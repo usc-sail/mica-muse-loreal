@@ -1,8 +1,0 @@
-gender vs country
-country cats = ['Germany', 'UK', 'France', 'Italy', 'USA', 'Spain', 'Brazil', 'India', 'Mexico', 'Indonesia']
-removed country cats = ['Canada']
-male
-India > UK > France > Germany > USA > Italy > Brazil > Mexico = Spain > Indonesia
-female
-Indonesia > Spain = Mexico > Brazil > Italy > USA > Germany > France > UK > India
-

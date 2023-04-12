@@ -1,8 +1,0 @@
-gender vs target gender product type=skincare
-target gender cats = ['female', 'unspecified', 'male', 'both']
-removed target gender cats = []
-male
-male > unspecified = both > female
-female
-female > both = unspecified > male
-

@@ -1,0 +1,8 @@
+gender vs country brand=YSL
+country cats = ['USA', 'Germany', 'Italy', 'UK']
+removed country cats = ['Mexico', 'France', 'Spain']
+male
+UK = Germany = USA = Italy
+female
+Italy = USA = Germany = UK
+

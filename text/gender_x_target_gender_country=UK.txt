@@ -1,8 +1,0 @@
-gender vs target gender country=UK
-target gender cats = ['unspecified', 'female', 'male', 'both']
-removed target gender cats = []
-male
-male > both = female > unspecified
-female
-unspecified > female = both > male
-

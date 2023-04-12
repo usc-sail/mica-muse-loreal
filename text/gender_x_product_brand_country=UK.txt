@@ -1,8 +1,0 @@
-gender vs advertiser country=UK
-advertiser cats = ['GARNIER', 'OAP', 'YSL', 'LANCOME', 'MAYBELLINE', 'KIEHLS', 'NYX', 'LRP', 'ARMANI', 'KERASTASE', 'PRADA', 'CERAVE', 'LOP', 'VICHY']
-removed advertiser cats = ['REDKEN']
-male
-PRADA > OAP > LRP > YSL > ARMANI > VICHY > CERAVE > LOP > NYX > KIEHLS > GARNIER > MAYBELLINE > KERASTASE > LANCOME
-female
-LANCOME > KERASTASE > MAYBELLINE > GARNIER > KIEHLS > NYX > LOP > CERAVE > VICHY > ARMANI > YSL > LRP > OAP > PRADA
-

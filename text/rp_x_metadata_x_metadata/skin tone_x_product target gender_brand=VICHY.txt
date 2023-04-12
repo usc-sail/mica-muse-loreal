@@ -1,0 +1,10 @@
+skin tone vs product target gender brand=VICHY
+product target gender cats = ['female', 'unspecified']
+removed product target gender cats = ['unisex']
+light
+unspecified > female
+medium
+female > unspecified
+dark
+female > unspecified
+

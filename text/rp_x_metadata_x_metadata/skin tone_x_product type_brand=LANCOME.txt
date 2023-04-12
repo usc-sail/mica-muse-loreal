@@ -1,0 +1,10 @@
+skin tone vs product type brand=LANCOME
+product type cats = ['fragrance', 'skincare', 'makeup']
+removed product type cats = []
+light
+fragrance > skincare > makeup
+medium
+makeup > skincare > fragrance
+dark
+makeup > skincare = fragrance
+

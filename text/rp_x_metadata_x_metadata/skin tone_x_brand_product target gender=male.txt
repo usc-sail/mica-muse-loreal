@@ -1,0 +1,10 @@
+skin tone vs brand product target gender=male
+brand cats = ['ARMANI', 'OAP', 'PRADA']
+removed brand cats = ['GARNIER', 'YSL', 'BIOTHERM']
+light
+PRADA > OAP = ARMANI
+medium
+OAP > ARMANI > PRADA
+dark
+ARMANI > PRADA > OAP
+

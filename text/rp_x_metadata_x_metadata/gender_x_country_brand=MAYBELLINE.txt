@@ -1,0 +1,8 @@
+gender vs country brand=MAYBELLINE
+country cats = ['USA', 'France', 'Italy', 'UK']
+removed country cats = ['Spain', 'Indonesia']
+male
+UK = USA > France = Italy
+female
+Italy = France > USA = UK
+

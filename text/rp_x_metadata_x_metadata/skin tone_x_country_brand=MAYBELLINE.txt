@@ -1,0 +1,10 @@
+skin tone vs country brand=MAYBELLINE
+country cats = ['USA', 'France', 'Italy', 'UK']
+removed country cats = ['Spain', 'Indonesia']
+light
+Italy > France > USA = UK
+medium
+UK = USA > France > Italy
+dark
+UK > USA = France = Italy
+

@@ -1,8 +1,0 @@
-gender vs advertiser product type=makeup
-advertiser cats = ['GARNIER', 'YSL', 'MNY', 'MAYBELLINE', 'NYX', 'OAP', 'KIEHLS', 'LANCOME', 'VICHY', 'LRP', 'ARMANI', 'BIOTHERM']
-removed advertiser cats = ['KERASTASE', 'LOP', 'CERAVE']
-male
-VICHY > LRP > YSL > NYX > OAP > BIOTHERM > GARNIER > KIEHLS > ARMANI > MNY > MAYBELLINE > LANCOME
-female
-LANCOME > MAYBELLINE > MNY > ARMANI > KIEHLS > GARNIER > BIOTHERM > OAP > NYX > YSL > LRP > VICHY
-

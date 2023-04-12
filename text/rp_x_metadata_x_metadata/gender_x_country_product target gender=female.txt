@@ -1,0 +1,8 @@
+gender vs country product target gender=female
+country cats = ['USA', 'France', 'Germany', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'Canada', 'Indonesia', 'India']
+male
+France > USA = UK > Germany > Italy > Spain
+female
+Spain > Italy > Germany > UK = USA > France
+

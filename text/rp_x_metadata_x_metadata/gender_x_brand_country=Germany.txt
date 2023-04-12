@@ -1,0 +1,8 @@
+gender vs brand country=Germany
+brand cats = ['ARMANI', 'BIOTHERM', 'CERAVE', 'GARNIER', 'KERASTASE', 'KIEHLS', 'LANCOME', 'LOP', 'LRP', 'MNY', 'NYX', 'VICHY', 'YSL']
+removed brand cats = ['PRADA', 'REDKEN']
+male
+VICHY > LRP > ARMANI > NYX > YSL > CERAVE > KERASTASE > GARNIER > KIEHLS > BIOTHERM > LANCOME > MNY > LOP
+female
+LOP > MNY > LANCOME > BIOTHERM > KIEHLS > GARNIER > KERASTASE > CERAVE > YSL > NYX > ARMANI > LRP > VICHY
+

@@ -1,0 +1,10 @@
+skin tone vs brand product type=skincare
+brand cats = ['GARNIER', 'LRP', 'OAP', 'VICHY', 'CERAVE', 'KIEHLS', 'LANCOME', 'MNY']
+removed brand cats = ['YSL', 'BIOTHERM', 'MAYBELLINE', 'ARMANI']
+light
+CERAVE > MNY = LANCOME > VICHY > OAP > GARNIER > LRP > KIEHLS
+medium
+KIEHLS > LRP > OAP > GARNIER = VICHY = MNY > LANCOME > CERAVE
+dark
+LRP = GARNIER > KIEHLS > LANCOME = VICHY > OAP > CERAVE > MNY
+

@@ -1,0 +1,10 @@
+skin tone vs country brand=YSL
+country cats = ['USA', 'Germany', 'Italy', 'UK']
+removed country cats = ['Mexico', 'France', 'Spain']
+light
+Germany > USA = Italy = UK
+medium
+Germany = Italy = UK = USA
+dark
+UK = USA = Italy > Germany
+

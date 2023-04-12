@@ -1,0 +1,14 @@
+age vs product target gender country=Germany
+product target gender cats = ['female', 'male', 'unspecified', 'unisex']
+removed product target gender cats = []
+<15y
+unspecified > female > unisex > male
+15y-25y
+unspecified > unisex > female > male
+25y-35y
+male > unisex = female > unspecified
+35y-45y
+female = unisex > unspecified = male
+45-75y
+female > unspecified > unisex = male
+

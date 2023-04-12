@@ -1,0 +1,14 @@
+age vs product target gender brand=OAP
+product target gender cats = ['female', 'unspecified', 'male']
+removed product target gender cats = []
+<15y
+male = unspecified > female
+15y-25y
+unspecified > male > female
+25y-35y
+female > male > unspecified
+35y-45y
+male > female > unspecified
+45-75y
+female > unspecified > male
+

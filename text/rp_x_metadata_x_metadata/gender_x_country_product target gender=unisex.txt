@@ -1,0 +1,8 @@
+gender vs country product target gender=unisex
+country cats = ['Germany', 'UK']
+removed country cats = ['Brazil', 'USA', 'France', 'Italy']
+male
+Germany = UK
+female
+UK = Germany
+

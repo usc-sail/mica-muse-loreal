@@ -1,0 +1,10 @@
+skin tone vs brand product type=haircare
+brand cats = ['GARNIER', 'OAP', 'VICHY', 'KERASTASE', 'LOP', 'REDKEN']
+removed brand cats = []
+light
+VICHY > LOP > KERASTASE > REDKEN = GARNIER > OAP
+medium
+OAP = REDKEN = GARNIER > LOP > KERASTASE > VICHY
+dark
+KERASTASE > OAP > GARNIER > LOP > REDKEN > VICHY
+

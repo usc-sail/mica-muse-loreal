@@ -1,0 +1,10 @@
+skin tone vs country product type=haircare
+country cats = ['Brazil', 'USA', 'France', 'Germany', 'Italy', 'Spain', 'UK', 'India']
+removed country cats = ['Mexico', 'Indonesia']
+light
+India > Spain > Italy > Germany > UK = France > Brazil > USA
+medium
+USA > France = Brazil = UK > Germany > Italy > Spain > India
+dark
+Brazil > UK > USA = France > Italy > Germany > Spain > India
+

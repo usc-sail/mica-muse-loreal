@@ -1,8 +1,0 @@
-gender vs product type product brand=OAP
-product type cats = ['skincare', 'haircare', 'makeup']
-removed product type cats = ['fragrance']
-male
-skincare > makeup > haircare
-female
-haircare > makeup > skincare
-

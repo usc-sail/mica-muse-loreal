@@ -1,0 +1,14 @@
+age vs product type brand=ARMANI
+product type cats = ['fragrance', 'makeup']
+removed product type cats = ['skincare']
+<15y
+fragrance = makeup
+15y-25y
+makeup > fragrance
+25y-35y
+fragrance > makeup
+35y-45y
+fragrance > makeup
+45-75y
+fragrance = makeup
+

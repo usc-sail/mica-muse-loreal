@@ -1,0 +1,10 @@
+skin tone vs brand country=USA
+brand cats = ['ARMANI', 'CERAVE', 'GARNIER', 'MAYBELLINE', 'NYX', 'OAP', 'YSL']
+removed brand cats = ['KIEHLS', 'LANCOME', 'LRP', 'PRADA', 'REDKEN', 'VICHY']
+light
+CERAVE > YSL = GARNIER = OAP > MAYBELLINE = NYX > ARMANI
+medium
+ARMANI > MAYBELLINE = NYX > GARNIER = OAP > YSL = CERAVE
+dark
+ARMANI = YSL > OAP > NYX = GARNIER > MAYBELLINE > CERAVE
+

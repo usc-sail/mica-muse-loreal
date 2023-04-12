@@ -1,14 +1,14 @@
 age vs product type
-product type cats = ['fragrance', 'haircare', 'makeup', 'skincare', 'toiletries']
+product type cats = ['fragrance', 'haircare', 'makeup', 'skincare']
 removed product type cats = []
 <15y
-makeup > haircare > toiletries > skincare > fragrance
+makeup = haircare > skincare > fragrance
 15y-25y
-makeup > haircare > skincare > toiletries > fragrance
+makeup > haircare > skincare > fragrance
 25y-35y
-fragrance > skincare > toiletries > haircare > makeup
+fragrance > skincare > haircare > makeup
 35y-45y
-toiletries > skincare > fragrance > haircare > makeup
+skincare > fragrance > makeup > haircare
 45-75y
-toiletries > skincare > fragrance > makeup = haircare
+skincare > makeup > fragrance > haircare
 

@@ -1,0 +1,14 @@
+age vs product target gender brand=KIEHLS
+product target gender cats = ['female', 'unspecified', 'unisex']
+removed product target gender cats = []
+<15y
+female = unspecified = unisex
+15y-25y
+unisex > female > unspecified
+25y-35y
+female > unisex = unspecified
+35y-45y
+unspecified > unisex > female
+45-75y
+unspecified > female > unisex
+

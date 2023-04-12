@@ -1,0 +1,10 @@
+skin tone vs country product target gender=unisex
+country cats = ['Germany', 'UK']
+removed country cats = ['Brazil', 'USA', 'France', 'Italy']
+light
+UK = Germany
+medium
+Germany = UK
+dark
+Germany = UK
+

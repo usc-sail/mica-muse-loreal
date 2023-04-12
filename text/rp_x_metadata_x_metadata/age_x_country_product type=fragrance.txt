@@ -1,0 +1,14 @@
+age vs country product type=fragrance
+country cats = ['USA', 'France', 'Germany', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'Brazil']
+<15y
+USA > UK = Spain > Germany > Italy > France
+15y-25y
+USA > UK = Germany = France = Italy > Spain
+25y-35y
+Spain > Italy = France > Germany = UK > USA
+35y-45y
+Spain = UK = France = Germany > Italy > USA
+45-75y
+USA = Germany = Italy > Spain > UK = France
+

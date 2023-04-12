@@ -1,0 +1,14 @@
+age vs country product target gender=unisex
+country cats = ['Germany', 'UK']
+removed country cats = ['Brazil', 'USA', 'France', 'Italy']
+<15y
+UK > Germany
+15y-25y
+Germany > UK
+25y-35y
+Germany > UK
+35y-45y
+Germany > UK
+45-75y
+Germany > UK
+

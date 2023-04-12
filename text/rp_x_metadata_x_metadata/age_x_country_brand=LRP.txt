@@ -1,0 +1,14 @@
+age vs country brand=LRP
+country cats = ['France', 'Germany', 'UK']
+removed country cats = ['Mexico', 'USA', 'Italy', 'Spain']
+<15y
+Germany > France > UK
+15y-25y
+UK = France > Germany
+25y-35y
+Germany > France = UK
+35y-45y
+UK = France = Germany
+45-75y
+France = UK > Germany
+

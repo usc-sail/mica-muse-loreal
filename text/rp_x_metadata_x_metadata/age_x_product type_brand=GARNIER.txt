@@ -1,0 +1,14 @@
+age vs product type brand=GARNIER
+product type cats = ['haircare', 'makeup', 'skincare']
+removed product type cats = ['fragrance']
+<15y
+makeup > haircare > skincare
+15y-25y
+skincare > makeup > haircare
+25y-35y
+haircare = skincare > makeup
+35y-45y
+haircare > skincare = makeup
+45-75y
+skincare > makeup = haircare
+

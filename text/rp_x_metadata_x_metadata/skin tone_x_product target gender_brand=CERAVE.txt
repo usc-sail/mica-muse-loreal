@@ -1,0 +1,10 @@
+skin tone vs product target gender brand=CERAVE
+product target gender cats = ['unisex', 'female']
+removed product target gender cats = ['unspecified']
+light
+female = unisex
+medium
+unisex = female
+dark
+unisex = female
+

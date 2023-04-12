@@ -1,0 +1,8 @@
+gender vs brand product target gender=male
+brand cats = ['ARMANI', 'OAP', 'PRADA']
+removed brand cats = ['GARNIER', 'YSL', 'BIOTHERM']
+male
+PRADA = OAP > ARMANI
+female
+ARMANI > OAP = PRADA
+

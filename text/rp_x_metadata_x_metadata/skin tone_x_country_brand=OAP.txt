@@ -1,0 +1,10 @@
+skin tone vs country brand=OAP
+country cats = ['USA', 'France', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'India']
+light
+Spain > Italy > France = UK > USA
+medium
+USA = UK > France > Italy = Spain
+dark
+USA > France > Italy = UK > Spain
+

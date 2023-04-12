@@ -1,8 +1,0 @@
-gender vs country product brand=ARMANI
-country cats = ['Italy', 'Germany', 'UK', 'USA']
-removed country cats = ['Mexico', 'Brazil', 'France', 'Spain']
-male
-Italy > Germany > UK > USA
-female
-USA > UK > Germany > Italy
-

@@ -1,8 +1,0 @@
-gender vs advertiser target gender=both
-advertiser cats = ['CERAVE', 'KIEHLS']
-removed advertiser cats = ['GARNIER', 'LRP', 'VICHY']
-male
-CERAVE = KIEHLS
-female
-KIEHLS = CERAVE
-

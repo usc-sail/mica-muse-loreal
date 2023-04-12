@@ -1,0 +1,10 @@
+skin tone vs brand product target gender=female
+brand cats = ['ARMANI', 'GARNIER', 'LANCOME', 'OAP', 'VICHY', 'YSL', 'CERAVE', 'KIEHLS', 'LRP']
+removed brand cats = ['PRADA', 'BIOTHERM']
+light
+CERAVE > LANCOME > OAP > VICHY > YSL = ARMANI > GARNIER > LRP > KIEHLS
+medium
+KIEHLS > LRP > ARMANI = VICHY > GARNIER > OAP > YSL > LANCOME > CERAVE
+dark
+YSL > GARNIER > LRP > KIEHLS > ARMANI > OAP > VICHY = LANCOME > CERAVE
+
