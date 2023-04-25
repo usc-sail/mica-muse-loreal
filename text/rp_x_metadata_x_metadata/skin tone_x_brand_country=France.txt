@@ -1,0 +1,10 @@
+skin tone vs brand country=France
+brand cats = ['GARNIER', 'KIEHLS', 'LANCOME', 'LRP', 'MAYBELLINE', 'OAP', 'VICHY']
+removed brand cats = ['ARMANI', 'BIOTHERM', 'CERAVE', 'KERASTASE', 'LOP', 'NYX', 'PRADA', 'YSL']
+light
+GARNIER = VICHY > LANCOME > LRP > OAP = MAYBELLINE > KIEHLS
+medium
+KIEHLS > MAYBELLINE = OAP > LANCOME = LRP > GARNIER > VICHY
+dark
+KIEHLS = LRP = VICHY = MAYBELLINE = OAP > LANCOME = GARNIER
+

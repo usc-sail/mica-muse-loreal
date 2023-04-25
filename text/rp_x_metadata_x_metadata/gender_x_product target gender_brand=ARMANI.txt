@@ -1,0 +1,8 @@
+gender vs product target gender brand=ARMANI
+product target gender cats = ['female', 'male', 'unspecified']
+removed product target gender cats = []
+male
+male > unspecified > female
+female
+female > unspecified > male
+

@@ -1,0 +1,10 @@
+skin tone vs country brand=LOP
+country cats = ['Germany', 'UK']
+removed country cats = ['Brazil', 'France', 'Italy', 'Spain']
+light
+UK = Germany
+medium
+Germany = UK
+dark
+Germany = UK
+

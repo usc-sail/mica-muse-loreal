@@ -1,0 +1,8 @@
+gender vs product target gender brand=LRP
+product target gender cats = ['unspecified', 'female']
+removed product target gender cats = ['unisex']
+male
+unspecified > female
+female
+female > unspecified
+

@@ -1,0 +1,14 @@
+age vs brand product type=haircare
+brand cats = ['GARNIER', 'OAP', 'VICHY', 'KERASTASE', 'LOP', 'REDKEN']
+removed brand cats = []
+<15y
+GARNIER > LOP > KERASTASE > REDKEN = OAP > VICHY
+15y-25y
+LOP = REDKEN > KERASTASE > GARNIER > OAP > VICHY
+25y-35y
+VICHY > OAP > GARNIER > KERASTASE > LOP > REDKEN
+35y-45y
+REDKEN > KERASTASE = OAP > VICHY = GARNIER > LOP
+45-75y
+KERASTASE > OAP = VICHY = GARNIER > LOP > REDKEN
+

@@ -1,0 +1,10 @@
+skin tone vs country brand=CERAVE
+country cats = ['USA', 'Germany', 'UK']
+removed country cats = ['Brazil', 'France', 'Italy']
+light
+Germany > UK = USA
+medium
+USA = UK = Germany
+dark
+USA = UK > Germany
+

@@ -1,0 +1,10 @@
+skin tone vs brand product type=fragrance
+brand cats = ['ARMANI', 'LANCOME', 'YSL', 'PRADA']
+removed brand cats = ['GARNIER', 'OAP']
+light
+LANCOME > PRADA > ARMANI = YSL
+medium
+ARMANI > YSL = PRADA > LANCOME
+dark
+YSL > ARMANI > PRADA > LANCOME
+

@@ -1,0 +1,8 @@
+gender vs brand product type=makeup
+brand cats = ['GARNIER', 'MNY', 'OAP', 'MAYBELLINE', 'NYX', 'YSL', 'ARMANI', 'BIOTHERM', 'KIEHLS', 'LANCOME', 'LRP', 'VICHY']
+removed brand cats = ['KERASTASE', 'LOP', 'CERAVE']
+male
+VICHY > LRP > YSL > NYX > OAP > BIOTHERM > GARNIER > KIEHLS > ARMANI > MNY > MAYBELLINE > LANCOME
+female
+LANCOME > MAYBELLINE > MNY > ARMANI > KIEHLS > GARNIER > BIOTHERM > OAP > NYX > YSL > LRP > VICHY
+

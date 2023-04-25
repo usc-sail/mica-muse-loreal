@@ -1,0 +1,14 @@
+age vs product target gender
+product target gender cats = ['female', 'male', 'unspecified', 'unisex']
+removed product target gender cats = []
+<15y
+unisex > unspecified > female > male
+15y-25y
+unspecified > unisex = female > male
+25y-35y
+male > female > unisex = unspecified
+35y-45y
+male > female > unisex = unspecified
+45-75y
+female > unspecified > unisex = male
+

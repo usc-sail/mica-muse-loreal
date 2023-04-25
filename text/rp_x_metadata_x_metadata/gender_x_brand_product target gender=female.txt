@@ -1,0 +1,8 @@
+gender vs brand product target gender=female
+brand cats = ['ARMANI', 'GARNIER', 'LANCOME', 'OAP', 'VICHY', 'YSL', 'CERAVE', 'KIEHLS', 'LRP']
+removed brand cats = ['PRADA', 'BIOTHERM']
+male
+LRP > KIEHLS > VICHY > GARNIER > YSL = LANCOME > CERAVE > ARMANI > OAP
+female
+OAP > ARMANI > CERAVE > LANCOME = YSL > GARNIER > VICHY > KIEHLS > LRP
+

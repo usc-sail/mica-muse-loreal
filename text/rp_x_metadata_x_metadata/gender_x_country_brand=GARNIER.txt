@@ -1,0 +1,8 @@
+gender vs country brand=GARNIER
+country cats = ['USA', 'France', 'Germany', 'Italy', 'Spain', 'UK', 'India']
+removed country cats = ['Mexico', 'Indonesia']
+male
+India > Germany = France > UK > USA > Spain = Italy
+female
+Italy = Spain > USA > UK > France = Germany > India
+

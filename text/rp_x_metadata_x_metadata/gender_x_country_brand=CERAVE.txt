@@ -1,0 +1,8 @@
+gender vs country brand=CERAVE
+country cats = ['USA', 'Germany', 'UK']
+removed country cats = ['Brazil', 'France', 'Italy']
+male
+USA = Germany = UK
+female
+UK = Germany = USA
+

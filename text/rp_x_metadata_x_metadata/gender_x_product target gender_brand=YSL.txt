@@ -1,0 +1,8 @@
+gender vs product target gender brand=YSL
+product target gender cats = ['female', 'unspecified']
+removed product target gender cats = ['male']
+male
+unspecified > female
+female
+female > unspecified
+

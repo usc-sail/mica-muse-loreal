@@ -1,0 +1,8 @@
+gender vs country brand=LANCOME
+country cats = ['France', 'Germany', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'USA', 'Canada']
+male
+Italy = Germany = France > Spain = UK
+female
+UK = Spain > France = Germany = Italy
+

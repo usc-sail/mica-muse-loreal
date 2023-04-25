@@ -1,0 +1,10 @@
+skin tone vs country brand=LANCOME
+country cats = ['France', 'Germany', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'USA', 'Canada']
+light
+Spain > France = Germany = Italy > UK
+medium
+UK > Germany = France = Italy > Spain
+dark
+Italy > France = Germany = UK = Spain
+

@@ -1,0 +1,8 @@
+gender vs country brand=NYX
+country cats = ['USA', 'Germany', 'UK']
+removed country cats = ['France', 'Italy', 'Spain']
+male
+Germany > UK > USA
+female
+USA > UK > Germany
+

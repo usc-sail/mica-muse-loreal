@@ -1,0 +1,10 @@
+skin tone vs product target gender brand=GARNIER
+product target gender cats = ['unspecified', 'female']
+removed product target gender cats = ['male', 'unisex']
+light
+unspecified > female
+medium
+unspecified = female
+dark
+female > unspecified
+

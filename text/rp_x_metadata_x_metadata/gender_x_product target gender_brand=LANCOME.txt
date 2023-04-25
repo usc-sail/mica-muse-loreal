@@ -1,0 +1,8 @@
+gender vs product target gender brand=LANCOME
+product target gender cats = ['female', 'unspecified']
+removed product target gender cats = []
+male
+female > unspecified
+female
+unspecified > female
+

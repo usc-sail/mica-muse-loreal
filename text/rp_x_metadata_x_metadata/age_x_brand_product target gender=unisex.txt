@@ -1,0 +1,14 @@
+age vs brand product target gender=unisex
+brand cats = ['CERAVE', 'KIEHLS']
+removed brand cats = ['GARNIER', 'LRP', 'VICHY']
+<15y
+CERAVE > KIEHLS
+15y-25y
+KIEHLS > CERAVE
+25y-35y
+CERAVE = KIEHLS
+35y-45y
+KIEHLS > CERAVE
+45-75y
+KIEHLS > CERAVE
+

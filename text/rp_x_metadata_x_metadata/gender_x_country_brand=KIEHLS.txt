@@ -1,0 +1,8 @@
+gender vs country brand=KIEHLS
+country cats = ['France', 'Germany', 'Italy', 'UK']
+removed country cats = ['USA', 'Spain']
+male
+France > Germany > UK = Italy
+female
+Italy = UK > Germany > France
+

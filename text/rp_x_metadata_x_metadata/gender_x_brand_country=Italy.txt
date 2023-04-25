@@ -1,0 +1,8 @@
+gender vs brand country=Italy
+brand cats = ['ARMANI', 'GARNIER', 'KIEHLS', 'LANCOME', 'MAYBELLINE', 'OAP', 'YSL']
+removed brand cats = ['BIOTHERM', 'CERAVE', 'KERASTASE', 'LOP', 'LRP', 'NYX', 'PRADA', 'REDKEN']
+male
+ARMANI > YSL = LANCOME > KIEHLS > OAP = GARNIER > MAYBELLINE
+female
+MAYBELLINE > GARNIER = OAP > KIEHLS > LANCOME = YSL > ARMANI
+

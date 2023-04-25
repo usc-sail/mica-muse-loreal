@@ -1,0 +1,10 @@
+skin tone vs product target gender brand=ARMANI
+product target gender cats = ['female', 'male', 'unspecified']
+removed product target gender cats = []
+light
+female = male > unspecified
+medium
+unspecified > female = male
+dark
+unspecified = male > female
+

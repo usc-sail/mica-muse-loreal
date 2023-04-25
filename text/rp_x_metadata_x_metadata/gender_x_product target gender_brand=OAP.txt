@@ -1,0 +1,8 @@
+gender vs product target gender brand=OAP
+product target gender cats = ['female', 'unspecified', 'male']
+removed product target gender cats = []
+male
+male > unspecified = female
+female
+female = unspecified > male
+

@@ -1,0 +1,10 @@
+skin tone vs brand product target gender=unisex
+brand cats = ['CERAVE', 'KIEHLS']
+removed brand cats = ['GARNIER', 'LRP', 'VICHY']
+light
+CERAVE > KIEHLS
+medium
+KIEHLS > CERAVE
+dark
+KIEHLS > CERAVE
+

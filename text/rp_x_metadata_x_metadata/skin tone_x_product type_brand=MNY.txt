@@ -1,0 +1,10 @@
+skin tone vs product type brand=MNY
+product type cats = ['makeup', 'skincare']
+removed product type cats = []
+light
+skincare = makeup
+medium
+makeup = skincare
+dark
+makeup > skincare
+

@@ -1,0 +1,10 @@
+skin tone vs product type country=UK
+product type cats = ['fragrance', 'makeup', 'skincare', 'haircare']
+removed product type cats = []
+light
+fragrance > haircare > skincare > makeup
+medium
+makeup > haircare > skincare > fragrance
+dark
+makeup > skincare = fragrance > haircare
+

@@ -1,0 +1,10 @@
+skin tone vs country product type=fragrance
+country cats = ['USA', 'France', 'Germany', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'Brazil']
+light
+France > Spain > Italy = UK > Germany > USA
+medium
+USA > Germany = UK = Italy > Spain = France
+dark
+USA = Germany > UK = Italy > Spain = France
+

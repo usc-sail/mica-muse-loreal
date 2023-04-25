@@ -1,0 +1,10 @@
+skin tone vs country brand=ARMANI
+country cats = ['USA', 'Germany', 'Italy', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'France', 'Spain']
+light
+Italy > Germany > UK > USA
+medium
+USA > UK > Italy = Germany
+dark
+UK = USA = Germany > Italy
+

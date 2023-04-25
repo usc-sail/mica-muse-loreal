@@ -1,0 +1,10 @@
+skin tone vs product target gender brand=LANCOME
+product target gender cats = ['female', 'unspecified']
+removed product target gender cats = []
+light
+female > unspecified
+medium
+unspecified > female
+dark
+unspecified > female
+

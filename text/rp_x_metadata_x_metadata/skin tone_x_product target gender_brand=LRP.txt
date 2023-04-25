@@ -1,0 +1,10 @@
+skin tone vs product target gender brand=LRP
+product target gender cats = ['unspecified', 'female']
+removed product target gender cats = ['unisex']
+light
+unspecified > female
+medium
+female > unspecified
+dark
+unspecified = female
+

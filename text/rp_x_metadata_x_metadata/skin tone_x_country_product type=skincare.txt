@@ -1,0 +1,10 @@
+skin tone vs country product type=skincare
+country cats = ['USA', 'France', 'Germany', 'Italy', 'Spain', 'UK']
+removed country cats = ['Mexico', 'Brazil', 'Canada', 'India', 'Indonesia']
+light
+Italy > Spain > France > Germany = USA > UK
+medium
+USA > UK > Germany > Spain = France > Italy
+dark
+UK > France > Germany > Italy = Spain = USA
+

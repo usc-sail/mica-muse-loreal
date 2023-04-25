@@ -1,0 +1,10 @@
+skin tone vs product target gender brand=OAP
+product target gender cats = ['female', 'unspecified', 'male']
+removed product target gender cats = []
+light
+female > male = unspecified
+medium
+male > unspecified > female
+dark
+unspecified > female = male
+

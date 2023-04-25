@@ -1,0 +1,14 @@
+age vs product target gender brand=ARMANI
+product target gender cats = ['female', 'male', 'unspecified']
+removed product target gender cats = []
+<15y
+female = unspecified > male
+15y-25y
+unspecified > female > male
+25y-35y
+male > female > unspecified
+35y-45y
+male = female > unspecified
+45-75y
+unspecified = female = male
+

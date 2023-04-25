@@ -1,0 +1,10 @@
+skin tone vs product target gender product type=fragrance
+product target gender cats = ['female', 'unspecified', 'male']
+removed product target gender cats = []
+light
+female > male > unspecified
+medium
+unspecified > male > female
+dark
+unspecified = male > female
+

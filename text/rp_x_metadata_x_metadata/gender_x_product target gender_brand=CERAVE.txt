@@ -1,0 +1,8 @@
+gender vs product target gender brand=CERAVE
+product target gender cats = ['unisex', 'female']
+removed product target gender cats = ['unspecified']
+male
+unisex > female
+female
+female > unisex
+

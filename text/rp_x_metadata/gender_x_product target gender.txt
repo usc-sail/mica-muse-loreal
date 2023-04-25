@@ -1,0 +1,8 @@
+gender vs product target gender
+product target gender cats = ['female', 'male', 'unspecified', 'unisex']
+removed product target gender cats = []
+male
+male > unisex > female > unspecified
+female
+unspecified > female > unisex > male
+

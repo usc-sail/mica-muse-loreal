@@ -1,0 +1,8 @@
+gender vs brand product type=fragrance
+brand cats = ['ARMANI', 'LANCOME', 'YSL', 'PRADA']
+removed brand cats = ['GARNIER', 'OAP']
+male
+PRADA > ARMANI > YSL > LANCOME
+female
+LANCOME > YSL > ARMANI > PRADA
+

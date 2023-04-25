@@ -1,0 +1,8 @@
+gender vs brand product type=haircare
+brand cats = ['GARNIER', 'OAP', 'VICHY', 'KERASTASE', 'LOP', 'REDKEN']
+removed brand cats = []
+male
+VICHY > KERASTASE > GARNIER > LOP > OAP = REDKEN
+female
+REDKEN = OAP > LOP > GARNIER > KERASTASE > VICHY
+

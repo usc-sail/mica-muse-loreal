@@ -1,0 +1,10 @@
+skin tone vs country brand=KIEHLS
+country cats = ['France', 'Germany', 'Italy', 'UK']
+removed country cats = ['USA', 'Spain']
+light
+Italy > Germany > France > UK
+medium
+UK > Germany = France > Italy
+dark
+UK > France > Germany > Italy
+
