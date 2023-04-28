@@ -8,7 +8,7 @@ makeup > skincare
 25y-35y
 skincare > makeup
 35y-45y
-makeup > skincare
+makeup = skincare
 45-75y
-makeup > skincare
+skincare = makeup
 

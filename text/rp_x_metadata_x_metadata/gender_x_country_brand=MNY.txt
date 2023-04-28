@@ -1,0 +1,8 @@
+gender vs country brand=MNY
+country cats = ['USA', 'France', 'Germany', 'Italy', 'UK']
+removed country cats = ['Mexico', 'Spain', 'Indonesia']
+male
+UK = USA > Germany > France = Italy
+female
+Italy = France > Germany > USA = UK
+

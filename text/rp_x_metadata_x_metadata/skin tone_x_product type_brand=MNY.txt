@@ -6,5 +6,5 @@ skincare = makeup
 medium
 makeup = skincare
 dark
-makeup > skincare
+skincare = makeup
 

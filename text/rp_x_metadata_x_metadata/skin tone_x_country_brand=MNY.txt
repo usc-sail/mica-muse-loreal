@@ -1,0 +1,10 @@
+skin tone vs country brand=MNY
+country cats = ['USA', 'France', 'Germany', 'Italy', 'UK']
+removed country cats = ['Mexico', 'Spain', 'Indonesia']
+light
+Italy = Germany > France > USA > UK
+medium
+UK = USA > France = Germany > Italy
+dark
+UK > USA = France = Italy > Germany
+

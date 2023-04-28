@@ -1,0 +1,14 @@
+age vs country brand=MNY
+country cats = ['USA', 'France', 'Germany', 'Italy', 'UK']
+removed country cats = ['Mexico', 'Spain', 'Indonesia']
+<15y
+USA > Germany = Italy = UK > France
+15y-25y
+Germany = USA = Italy > UK = France
+25y-35y
+France > UK > Italy > Germany = USA
+35y-45y
+USA = Germany = France > UK > Italy
+45-75y
+UK = Germany > France > USA = Italy
+

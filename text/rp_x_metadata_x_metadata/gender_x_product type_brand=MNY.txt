@@ -2,7 +2,7 @@ gender vs product type brand=MNY
 product type cats = ['makeup', 'skincare']
 removed product type cats = []
 male
-makeup > skincare
+skincare = makeup
 female
-skincare > makeup
+makeup = skincare
 

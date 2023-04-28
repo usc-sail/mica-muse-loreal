@@ -1,6 +1,6 @@
 gender vs brand product type=skincare
 brand cats = ['GARNIER', 'LRP', 'OAP', 'VICHY', 'CERAVE', 'KIEHLS', 'LANCOME', 'MNY']
-removed brand cats = ['YSL', 'BIOTHERM', 'MAYBELLINE', 'ARMANI']
+removed brand cats = ['YSL', 'BIOTHERM', 'ARMANI']
 male
 OAP > LRP > KIEHLS > CERAVE = VICHY > GARNIER > LANCOME > MNY
 female

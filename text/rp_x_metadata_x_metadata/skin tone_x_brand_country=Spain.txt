@@ -1,6 +1,6 @@
 skin tone vs brand country=Spain
 brand cats = ['GARNIER', 'LANCOME', 'OAP']
-removed brand cats = ['ARMANI', 'BIOTHERM', 'KERASTASE', 'KIEHLS', 'LOP', 'LRP', 'MAYBELLINE', 'NYX', 'REDKEN', 'VICHY', 'YSL']
+removed brand cats = ['ARMANI', 'BIOTHERM', 'KERASTASE', 'KIEHLS', 'LOP', 'LRP', 'MNY', 'NYX', 'REDKEN', 'VICHY', 'YSL']
 light
 LANCOME = OAP = GARNIER
 medium

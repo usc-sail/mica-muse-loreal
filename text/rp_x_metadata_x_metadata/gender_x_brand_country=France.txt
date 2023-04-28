@@ -1,8 +1,8 @@
 gender vs brand country=France
-brand cats = ['GARNIER', 'KIEHLS', 'LANCOME', 'LRP', 'MAYBELLINE', 'OAP', 'VICHY']
+brand cats = ['GARNIER', 'KIEHLS', 'LANCOME', 'LRP', 'MNY', 'OAP', 'VICHY']
 removed brand cats = ['ARMANI', 'BIOTHERM', 'CERAVE', 'KERASTASE', 'LOP', 'NYX', 'PRADA', 'YSL']
 male
-KIEHLS > LRP = VICHY > GARNIER > LANCOME > OAP > MAYBELLINE
+KIEHLS > LRP = VICHY > GARNIER > LANCOME > OAP > MNY
 female
-MAYBELLINE > OAP > LANCOME > GARNIER > VICHY = LRP > KIEHLS
+MNY > OAP > LANCOME > GARNIER > VICHY = LRP > KIEHLS
 
